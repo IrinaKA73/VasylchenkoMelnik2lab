@@ -3,7 +3,6 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        // public Car(long id, String company, String model, int Year, String color, int price, String registerNumber)
         Car car1 = new Car(1, "Mercedes", "S200", 2010, "silver", 50000, "AA2043AA");
         Car car2 = new Car(2, "Audi", "A6", 2012, "black", 124000, "AA9754BA");
         Car car3 = new Car(3, "BMW", "X5", 2012, "green", 95000, "AA6446AA");
